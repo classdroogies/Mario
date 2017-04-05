@@ -17,7 +17,7 @@ namespace Mario
         {
             InitializeComponent();
         }
-
+        // Chargement
         private void Form1_Load(object sender, EventArgs e)
         {
             while (true)
